@@ -3,7 +3,7 @@
 [
   {
     "key": "cmd+9",
-    "command": "workbench.action.openLastEditorInGroup"
+    "command": "workbench.action.lastEditorInGroup"
   },
   {
     "key": "cmd+alt+right",
